@@ -1,7 +1,7 @@
 import urllib
 
 def read_text():
-    quotes = open("quotes")
+    quotes = open("checker")
     text_inside = quotes.read()
     quotes.close()
     check_curse(text_inside)
