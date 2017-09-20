@@ -35,3 +35,6 @@ _**2. Checking File:**_
         quotes = open("checker")
 ```
 - **Replace** `checker` with `address of the new file`
+```angular2html
+        run check_profanity.py
+```
