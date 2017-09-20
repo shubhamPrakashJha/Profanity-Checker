@@ -13,10 +13,6 @@ Download the Repository in local computer
     navigate to downloaded directory
 ```
 
-open the `check_profanity.py` file in **python IDLE** 
-```
-    press F5
-```
 
 ## USAGE
 _**1. Checking Text:**_
